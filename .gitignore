@@ -1,0 +1,25 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+
+# Build çıktıları
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+
+# Derlenmiş dosyalar
+*.exe
+*.dll
+*.pdb
+*.ilk
+*.obj
+*.log
+
+# MTA SDK (oyun dosyaları)
+mtasa/
